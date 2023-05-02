@@ -1,4 +1,5 @@
 # QR Code Generator
+
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![vue](https://img.shields.io/badge/Vue_JS-35495E?logo=vuedotjs&logoColor=4FC08D)
 ![nodejs](https://img.shields.io/badge/Node_JS-339933?logo=nodedotjs&logoColor=white)
@@ -27,36 +28,50 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
 
 ## Prerequisites
+
 Before you can run this project, you need to have the following installed:
+
 - Node.js (version 18.0 or later)
 
 ## Project Setup
+
 To install this project, follow these steps:
 Clone the repository using `git`
+
 ```
-git clone https://github.com/Prakashdeveloper03/React-QRCode-App.git
+git clone https://github.com/Prakashdeveloper03/QRCode.git
 ```
+
 Navigate to the root directory of the project
+
 ```
 cd <directory_name>
 ```
+
 To install all the dependencies
 
 ```sh
 pnpm install
 ```
+
 Compile and Hot-Reload for Development
+
 ```sh
 pnpm dev
 ```
+
 Type-Check, Compile and Minify for Production
+
 ```sh
 pnpm build
 ```
+
 Lint with [ESLint](https://eslint.org/)
+
 ```sh
 pnpm lint
 ```
 
 ## Screenshot
+
 ![output](markdown/output.png)
